@@ -747,3 +747,17 @@ div.welcavo1u span.user_name strong{font-size:13px;}
 .chatcavo #fa_share a:after,form#form_contact.report select.dropconan2000.default{display:none;}
 blockquote cite:before{font-family:'Font Awesome 6 pro';content:"\f10e";float:right;padding-left:3px;font-size:14px;animation:alerticon 1s ease-in-out infinite alternate;}
 .teamcavo1 a:hover:before,ul.nav-linkss a:hover:before,ul.chatcavo a:hover:before,ul.nav-linkss a#logout:hover:before,ul.footer-content a:hover:before,#theme-toggle-button:hover:before,body.dark-mode #theme-toggle-button:hover:before{font-weight:900;}
+#page-footer, div.navbar, div.navbar ul.linklist{display:block !important;}
+ul.linklist li.rightside, ul.linklist li.rightside a.copyright{display:inline !important;}
+<!-- BEGIN switch_ticker_new -->
+.jcarousel-skin-tango .jcarousel-item{text-align:center;width:10px;}
+.jcarousel-skin-tango .jcarousel-item-horizontal{margin-right:{switch_ticker.SPACING}px;}
+.jcarousel-skin-tango .jcarousel-item-vertical{margin-bottom:{switch_ticker.SPACING}px;}
+<!-- END switch_ticker_new -->
+#page-footer, div.navbar, div.navbar ul.linklist{display:block !important;}
+ul.linklist li.rightside, ul.linklist li.rightside a.copyright{display:inline !important;}
+<!-- BEGIN switch_ticker_new -->
+.jcarousel-skin-tango .jcarousel-item{text-align:center;width:10px;}
+.jcarousel-skin-tango .jcarousel-item-horizontal{margin-right:{switch_ticker.SPACING}px;}
+.jcarousel-skin-tango .jcarousel-item-vertical{margin-bottom:{switch_ticker.SPACING}px;}
+<!-- END switch_ticker_new -->
